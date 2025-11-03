@@ -1,4 +1,5 @@
 Hi️❤️
+
 I am a student who loves software engineering. I like everything about computers and technology. I am learning HTML﻿, CSS﻿, JavaScript﻿, and C#﻿(trying to update the list). I want to get better at these skills and use them to work on big projects in the future.
 
 THESE ARE MY LINKS TO GET IN TOUCH WITH ME :)

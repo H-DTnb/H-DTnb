@@ -1,8 +1,8 @@
-Hi️❤️
+Hi️
 
 I am a student who loves software engineering. I like everything about computers and technology. I am learning HTML﻿, CSS﻿, JavaScript﻿,C# and c++ ﻿(trying to update the list). I want to get better at these skills and use them to work on big projects in the future.
 
-THESE ARE MY LINKS TO GET IN TOUCH WITH ME :)
+THESE ARE MY LINKS TO GET IN TOUCH WITH ME 
 <p align="center">
   <a href="https://open.spotify.com/user/315wewn2xx2rnlggjdxvt7mrolli?si=ddc39d4d01ca4a87&nd=1&dlsi=6cbea36509ff4812" target="_blank" style="margin:10px;">
     <img alt="playlist" src="https://img.shields.io/badge/playlist-spotify-%2309b82?logo=spotify&style=for-the-badge"/>
